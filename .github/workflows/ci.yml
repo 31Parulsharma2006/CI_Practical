@@ -1,0 +1,15 @@
+CI_Practical/
+│
+├── src/
+│   └── app.js
+│
+├── test/
+│   └── app.test.js
+│
+├── .github/
+│   └── workflows/
+│       └── ci.yml
+│
+├── package.json
+├── package-lock.json
+└── eslint.config.js
